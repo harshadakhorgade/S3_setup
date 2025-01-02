@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Become a Backend Developer in 3 Hours - Beginner To Advanced
 ![1i (2)](https://github.com/codewithmuh/backend_course/assets/51082957/c0e965ac-f871-41d7-a94e-d90cc3338db2)
 
@@ -34,3 +35,6 @@ Special thanks to codewithmuh for creating this incredible Django Starter Kit an
 ## Support
 <a href="https://www.buymeacoffee.com/codewithmuh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
+=======
+# S3_setup
+>>>>>>> 3200bd34420e1624e1c27e96c41888370d35e8ad
